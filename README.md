@@ -11,7 +11,6 @@ Each repository shows practical end-to-end data work — from data wrangling and
 |----------|--------------|-------------|
 | [Coupon Acceptance Analysis](https://github.com/YOURNAME/CouponAcceptanceAnalysis) | Used Amazon's survey data to predict whether a customer accepts a driving coupon. Includes EDA, probability distributions, and actionable business insights. | `Python`, `Pandas`, `Matplotlib`, `Seaborn` |
 
-*(Add or reorder as you build more projects.)*
 
 ---
 
