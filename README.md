@@ -1,4 +1,4 @@
-# Mt ML Playground
+# My ML Playground
 
 Welcome to my personal space for exploring, experimenting, and building applied Machine Learning and AI projects.  
 Each repository shows practical end-to-end data work — from data wrangling and visualization to model design, evaluation, and deployment.
@@ -33,6 +33,4 @@ Each project in this collection:
 - Is documented for easy understanding and reproducibility  
 
 ---
-
-## 📁 Repository Map
 
